@@ -9,3 +9,6 @@ For DSPL Arena is free again at 13:40, for OPL at 13:20 and for SSPL at 12:00.
 
 ## Names
 We use the same list of Names as in 2019.
+
+## Additional Items
+The bags for Carry my Luggage, the umbrella for Farewell, and the garbage bags for Take out the Garbage are available for training at the TC table.
