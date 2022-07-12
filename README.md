@@ -16,6 +16,20 @@ The bags for Carry my Luggage, the umbrella for Farewell, and the garbage bags f
 ## Robot Inspection
 ![](https://github.com/RoboCupAtHome/Bangkok2022/blob/master/Tests/RIPS/RIPS.png)
 
+Schedule
+
+| DSPL (Start at 15:00) | OPL (Start after DSPL) | SSPL (Start after OPL) |
+| ------------- | ------------- | ------------- |
+| Team ORIon  | EIC Chula  |  LiU@HomeWreckers  |
+| Tech United Eindhoven  | RoboFEI  |  RoboBreizh  |
+| Austin Villa@Home  | ButiáBots  |  Sinfonia Uniandes  |
+| Team Tidyboy  | SKUBA  |   |
+| TamaGoya  |  KameRider OPL  |   |
+| RoboCanes-VISAGE  | LASR  |   |
+| Hibikino-Musashi@home  | Chief Scientist Office  |   |
+| UNSW  |   |   |
+
+
 ## Stage 1
 ### Carry my Luggage
 ![](https://github.com/RoboCupAtHome/Bangkok2022/blob/master/Tests/Carry%20my%20Luggage/Carry_My_Luggage.png)
