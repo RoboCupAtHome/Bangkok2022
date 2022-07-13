@@ -1,5 +1,21 @@
 # Bangkok 2022
 
+
+## Schedule Testing Block 13.07. 15:00
+| DSPL| OPL/SSPL |
+| ------------- | ------------- | 
+| TamaGoya  | Chief Scientist Office  |    |
+| Austin Villa@Home  | ButiáBots  |    |
+| UNSW  | KameRider OPL  |
+| Hibikino-Musashi@home  | LASR  |   
+| Tech United Eindhoven  |  RoboFEI  |   
+| Team ORIon  | EIC Chula  |   
+| RoboCanes-VISAGE  | SKUBA  |   
+| Team Tidyboy  | LiU@HomeWreckers  |
+|   | Sinfonia Uniandes  |
+|   |  RoboBreizh |
+
+
 ## Schedule Testing Block 13.07. 09:00
 | DSPL/SSPL| OPL |
 | ------------- | ------------- | 
