@@ -5,7 +5,7 @@
 | ------------- | ------------- | 
 | TamaGoya  | Chief Scientist Office  |    |
 | Austin Villa@Home  | ButiáBots  |    |
-| UNSW  | ButiáBots  |  KameRider OPL  
+| UNSW  | KameRider OPL  |
 | Hibikino-Musashi@home  | LASR  |   
 | Tech United Eindhoven  |  RoboFEI  |   
 | Team ORIon  | EIC Chula  |   
