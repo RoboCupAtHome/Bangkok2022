@@ -1,6 +1,32 @@
 # Bangkok 2022
 
-## Schedule Testing Block 14.07. 09:00
+- [Bangkok 2022](#bangkok-2022)
+  * [Schedule Testing Block S1 All](#schedule-testing-block-s1-all)
+  * [Schedule Testing Block S1 Party Host](#schedule-testing-block-s1-party-host)
+  * [Schedule Testing Block S1 Housekeeper](#schedule-testing-block-s1-housekeeper)
+  * [Telegram Group](#telegram-group)
+  * [Mapping Slots](#mapping-slots)
+  * [Names](#names)
+  * [Additional Items](#additional-items)
+  * [Robot Inspection](#robot-inspection)
+  * [Stage 1](#stage-1)
+    + [Carry my Luggage](#carry-my-luggage)
+    + [Clean Up](#clean-up)
+    + [Farewell](#farewell)
+    + [GPSR](#gpsr)
+    + [Receptionist](#receptionist)
+    + [Serving Drinks](#serving-drinks)
+    + [Serve Breakfast](#serve-breakfast)
+    + [Storing Groceries](#storing-groceries)
+    + [Take out the Garbage](#take-out-the-garbage)
+  * [Stage 2](#stage-2)
+    + [Clean the Table](#clean-the-table)
+    + [EGPSR](#egpsr)
+    + [Find my Disk](#find-my-disk)
+    + [Set the Table](#set-the-table)
+
+
+## Schedule Testing Block S1 All
 | DSPL| OPL/SSPL |
 | ------------- | ------------- | 
 | Team Tidyboy  | KameRider OPL  |    |
@@ -14,7 +40,7 @@
 |   | Sinfonia Uniandes  |
 |   |  LiU@HomeWreckers |
 
-## Schedule Testing Block 13.07. 15:00
+## Schedule Testing Block S1 Party Host
 | DSPL| OPL/SSPL |
 | ------------- | ------------- | 
 | TamaGoya  | Chief Scientist Office  |    |
@@ -29,7 +55,7 @@
 |   |  RoboBreizh |
 
 
-## Schedule Testing Block 13.07. 09:00
+## Schedule Testing Block S1 Housekeeper
 | DSPL/SSPL| OPL |
 | ------------- | ------------- | 
 | TamaGoya  | Chief Scientist Office  |    |
@@ -117,3 +143,19 @@ Objects will be placed in the side table(6)
 ![](https://github.com/RoboCupAtHome/Bangkok2022/blob/master/Tests/Take%20out%20the%20Garbage/Take_Out_The_Garbage.png)
 Garbage Bags will be lightly filled during the test.
 ![](https://github.com/RoboCupAtHome/Bangkok2022/blob/master/Tests/Take%20out%20the%20Garbage/Garbage_Bags.jpg)
+
+## Stage 2
+
+### Clean the Table
+Robot is starting at entrance door.
+
+### EGPSR
+![](https://github.com/RoboCupAtHome/Bangkok2022/blob/master/Tests/EGPSR/EGPSR.png)
+
+### Find my Disk
+![](https://github.com/RoboCupAtHome/Bangkok2022/blob/master/Tests/Find%20my%20Disk/Find_my_Disk.png)
+
+### Set the Table
+![](https://github.com/RoboCupAtHome/Bangkok2022/blob/master/Tests/Set%20the%20Table/Set_the_Table.png)
+
+
