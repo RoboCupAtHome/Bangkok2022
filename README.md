@@ -1,6 +1,7 @@
 # Bangkok 2022
 
 - [Bangkok 2022](#bangkok-2022)
+  * [Schedule Testing Block S2 Housekeeper](#schedule-testing-block-s2-housekeeper)
   * [Schedule Testing Block S1 All](#schedule-testing-block-s1-all)
   * [Schedule Testing Block S1 Party Host](#schedule-testing-block-s1-party-host)
   * [Schedule Testing Block S1 Housekeeper](#schedule-testing-block-s1-housekeeper)
@@ -25,6 +26,19 @@
     + [Find my Disk](#find-my-disk)
     + [Set the Table](#set-the-table)
 
+## Schedule Testing Block S2 Housekeeper
+| DSPL| OPL/SSPL |
+| ------------- | ------------- | 
+| Tech United Eindhoven  | SKUBA  |    |
+| TamaGoya  | LASR  |    |
+| UNSW  | EIC Chule  |
+| Hibikino-Musashi@home  | RoboFEI  |   
+| Austin Villa@Home  |  KameRiderOPL  |   
+| RoboCanes-VISAGE  | Chief Scientist Office  |   
+| Team Tidyboy  | ButiáBots  |   
+| Team ORIon  | Sinfonia Uniandes  |
+|   |     LiU@HomeWreckers  |
+|   |      RoboBreizh |
 
 ## Schedule Testing Block S1 All
 | DSPL| OPL/SSPL |
