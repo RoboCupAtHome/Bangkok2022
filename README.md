@@ -1,6 +1,7 @@
 # Bangkok 2022
 
 - [Bangkok 2022](#bangkok-2022)
+  * [Schedule Testing Block S2 Restaurant](#schedule-testing-block-s2-restaurant)
   * [Schedule Testing Block S2 Housekeeper](#schedule-testing-block-s2-housekeeper)
   * [Schedule Testing Block S1 All](#schedule-testing-block-s1-all)
   * [Schedule Testing Block S1 Party Host](#schedule-testing-block-s1-party-host)
@@ -27,8 +28,7 @@
     + [Set the Table](#set-the-table)
 
 
-## Schedule Testing S2 Restaurant
-
+## Schedule Testing Block S2 Restaurant
 - Tech United Eindhoven  
 - SKUBA  
 - TamaGoya  
