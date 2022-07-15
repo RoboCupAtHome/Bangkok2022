@@ -1,6 +1,7 @@
 # Bangkok 2022
 
 - [Bangkok 2022](#bangkok-2022)
+  * [Schedule Testing Block S2 Party Host](#schedule-testing-block-s2-party-host)
   * [Schedule Testing Block S2 Restaurant](#schedule-testing-block-s2-restaurant)
   * [Schedule Testing Block S2 Housekeeper](#schedule-testing-block-s2-housekeeper)
   * [Schedule Testing Block S1 All](#schedule-testing-block-s1-all)
@@ -27,6 +28,19 @@
     + [Find my Disk](#find-my-disk)
     + [Set the Table](#set-the-table)
 
+
+## Schedule Testing Block S2 Party Host
+| DSPL| OPL/SSPL |
+| ------------- | ------------- | 
+|  RoboCanes-VISAGE | SKUBA  |    |
+| TamaGoya  |  ButiáBots |    |
+| Team Tidyboy  | EIC Chule  |
+| Hibikino-Musashi@home  | RoboFEI  |   
+| Austin Villa@Home  |  KameRiderOPL  |   
+|  Tech United Eindhoven | Chief Scientist Office  |   
+|   |  RoboBreizh |   
+|   | Sinfonia Uniandes  |
+|   |     LiU@HomeWreckers  |
 
 ## Schedule Testing Block S2 Restaurant
 - Tech United Eindhoven  
