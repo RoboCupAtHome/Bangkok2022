@@ -26,6 +26,25 @@
     + [Find my Disk](#find-my-disk)
     + [Set the Table](#set-the-table)
 
+
+## Schedule Testing S2 Restaurant
+
+- Tech United Eindhoven  
+- SKUBA  
+- TamaGoya  
+- EIC Chule 
+- Hibikino-Musashi@home  
+- RoboFEI  
+- Austin Villa@Home  
+- KameRiderOPL  
+- RoboCanes-VISAGE  
+- Chief Scientist Office   
+- Team Tidyboy  
+- ButiáBots  
+- Sinfonia Uniandes  
+- LiU@HomeWreckers  
+- RoboBreizh 
+
 ## Schedule Testing Block S2 Housekeeper
 | DSPL| OPL/SSPL |
 | ------------- | ------------- | 
