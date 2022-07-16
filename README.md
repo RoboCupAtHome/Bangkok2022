@@ -1,6 +1,10 @@
 # Bangkok 2022
 
 - [Bangkok 2022](#bangkok-2022)
+  * [Final Scores](#final-scores)
+    + [OPL](#opl)
+    + [DSPL](#dspl)
+    + [SSPL](#sspl)
   * [Schedule Testing Block S2 Party Host](#schedule-testing-block-s2-party-host)
   * [Schedule Testing Block S2 Restaurant](#schedule-testing-block-s2-restaurant)
   * [Schedule Testing Block S2 Housekeeper](#schedule-testing-block-s2-housekeeper)
@@ -27,6 +31,19 @@
     + [EGPSR](#egpsr)
     + [Find my Disk](#find-my-disk)
     + [Set the Table](#set-the-table)
+
+## Final Scores
+### OPL
+
+![](https://github.com/RoboCupAtHome/Bangkok2022/blob/master/Scores/Final/opl_final.png)
+
+### DSPL
+
+![](https://github.com/RoboCupAtHome/Bangkok2022/blob/master/Scores/Final/dspl_final.png)
+
+### SSPL
+
+![](https://github.com/RoboCupAtHome/Bangkok2022/blob/master/Scores/Final/sspl_final.png)
 
 
 ## Schedule Testing Block S2 Party Host
